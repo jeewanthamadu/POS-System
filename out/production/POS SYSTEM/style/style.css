@@ -1,0 +1,13 @@
+
+@media screen,(max-width: 320px) ,(min-width: 500px){
+    .Balla{
+      -fx-background-color: red;
+
+    }
+
+}
+.goani{ -fx-font-size:24}
+
+
+.jfx-combo-box {
+}
